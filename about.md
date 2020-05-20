@@ -19,6 +19,9 @@ sidebar_link: true
 - languge/ tool
   - C#, Kotlin
   - Unity, Android Studio
+  
+- Email
+  - existninex2@gmail.com
 
 ---
 
@@ -32,6 +35,4 @@ sidebar_link: true
  
   현재 창업동아리에서 팀원들과 Dapp개발 준비중이다.
   
-  ![me](./_screenshots/KakaoTalk_20200520_171953775.jpg)
- 
  ---
