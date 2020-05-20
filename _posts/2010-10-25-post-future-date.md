@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "Post: Future Date"
-date: 9999-12-31
+title: "Fork"
+date: 2020-05-23
 categories:
   - Post
-last_modified_at: 2017-03-09T12:45:25-05:00
+last_modified_at: 2017-03-09T12:45:25-06:00
 ---
 
-This post lives in the future and is dated {{ page.date | date: "%c" }}. It should only appear when Jekyll builds your project with the `--future` flag.
+ #### 1. [gitignore](https://github.com/5eokhwan/gitignore)
+ 
+ 각 프로젝트에 필요한 .gitignore가 잘 정리 되어있습니다. 
+ 
+ 오픈소스 수업으로 배운 git을 활용해 현재 개발중인 프로젝트를 깃허브 원격 저장소로 백업할 때 유용할것 같아 선택했습니다.
 
-```bash
-jekyll build --future
-```
+ #### 2. [solidity.git](https://github.com/5eokhwan/solidity.git)
+ 
+이더리움 공식 계정의 스마트컨트렉트 작성을 위한 솔리더티입니다.
+
+창업동아리에서 팀원들과 Dapp을 만들어 보기로 하여 선택하였습니다.
