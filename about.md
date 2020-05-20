@@ -31,5 +31,7 @@ sidebar_link: true
  그리고 다시 한번 진로에 대해 고민하게 되었다.
  
   현재 창업동아리에서 팀원들과 Dapp개발 준비중이다.
+  
+  ![me](./_screenshots/KakaoTalk_20200520_171953775.jpg)
  
  ---
